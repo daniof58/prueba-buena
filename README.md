@@ -2,4 +2,4 @@
 
 ## Encabezado de Tipo
 
-## Encabezado de TIpo
+## Encabezado de Tipo
